@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Morgan%20%E2%80%94%20Investor%20Presentation.html"
+    }
+  ]
+}
